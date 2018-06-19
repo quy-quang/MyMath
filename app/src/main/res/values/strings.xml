@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMath</string>
+    <string name="tab_text_1">Tao Moi</string>
+    <string name="tab_text_2">Chinh Sua</string>
+    <string name="tab_text_3">Cach Giai</string>
+    <string name="tab_text_4">Lich Su</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="figure_type">
+        <item>Hinh Chu Nhat</item>
+        <item>Hinh Tam Giac</item>
+        <item>Hinh Tron</item>
+    </string-array>
+</resources>
